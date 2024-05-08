@@ -1,6 +1,4 @@
 body{
-    background-color: blue ;
-    font-size: 30px;
-   display: grid;
-   justify-content: center;
+    background-color: white ;
+    font-family: Arial, sans-serif;
 }
